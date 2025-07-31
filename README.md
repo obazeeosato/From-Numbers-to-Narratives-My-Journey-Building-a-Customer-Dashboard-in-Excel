@@ -1,5 +1,6 @@
 # From-Numbers-to-Narratives-My-Journey-Building-a-Customer-Dashboard-in-Excel
-![my dashboard](https://github.com/obazeeosato)
+ ![Consumer Electronic Dashboard](https://github.com/obazeeosato/From-Numbers-to-Narratives-My-Journey-Building-a-Customer-Dashboard-in-Excel/raw/main/consumer%20electronic%20dashboard.png)
+
 ##  Project Objectives
 
 - Understand purchasing behavior across different customer age groups.
